@@ -1,0 +1,9 @@
+C:\GitHub-Projetos\CETECC\CalculadoraQuilometragem\CalculadoraQuilometragem\bin\Debug\CalculadoraQuilometragem.exe.config
+C:\GitHub-Projetos\CETECC\CalculadoraQuilometragem\CalculadoraQuilometragem\bin\Debug\CalculadoraQuilometragem.exe
+C:\GitHub-Projetos\CETECC\CalculadoraQuilometragem\CalculadoraQuilometragem\bin\Debug\CalculadoraQuilometragem.pdb
+C:\GitHub-Projetos\CETECC\CalculadoraQuilometragem\CalculadoraQuilometragem\obj\Debug\CalculadoraQuilometragem.csprojResolveAssemblyReference.cache
+C:\GitHub-Projetos\CETECC\CalculadoraQuilometragem\CalculadoraQuilometragem\obj\Debug\CalculadoraQuilometragem.Form1.resources
+C:\GitHub-Projetos\CETECC\CalculadoraQuilometragem\CalculadoraQuilometragem\obj\Debug\CalculadoraQuilometragem.Properties.Resources.resources
+C:\GitHub-Projetos\CETECC\CalculadoraQuilometragem\CalculadoraQuilometragem\obj\Debug\CalculadoraQuilometragem.csproj.GenerateResource.Cache
+C:\GitHub-Projetos\CETECC\CalculadoraQuilometragem\CalculadoraQuilometragem\obj\Debug\CalculadoraQuilometragem.exe
+C:\GitHub-Projetos\CETECC\CalculadoraQuilometragem\CalculadoraQuilometragem\obj\Debug\CalculadoraQuilometragem.pdb
